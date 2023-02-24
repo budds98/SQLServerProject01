@@ -1,3 +1,5 @@
+
+
 --Combining Two Separated Tables into One (CovidDeaths01$ and CovidDeaths02$) and Selecting Useful Data
 --It is necessary to do because the dataset for CovidDeaths cannot be put in one xls data
 
